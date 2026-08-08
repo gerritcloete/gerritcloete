@@ -8,7 +8,7 @@ Based in South Africa 🇿🇦, I run [**Topo Software**](https://toposoftware.c
 
 - **AI Agents & Automation:** Building custom AI agents, workflow automations, and LLM tools that understand business context.
 
-- **Product Ventures:** Shipping and testing practical web products, from solar sizing to local event discovery and URL/product-positioning tools.
+- **Product Ventures:** Shipping and testing practical web products, from solar sizing to local event promotion and URL-positioning tools.
 
 - **Engineering Systems:** Turning operational complexity, data handoffs, and technical workflows into maintainable software.
 
@@ -20,9 +20,9 @@ Based in South Africa 🇿🇦, I run [**Topo Software**](https://toposoftware.c
 
 - [**SizeSolar**](https://sizesolar.com/) 🚀 - Solar sizing and proposal workflow platform.
 
-- [**Happenly**](https://happenly.org/) - South African event discovery platform with city pages, sponsored listings, lead capture, and admin conversion tooling.
+- [**Happenly**](https://happenly.org/) - South African event discovery and paid-promotion platform with city SEO pages, sponsored listings, lead capture, and admin conversion tooling. [Promote an event](https://happenly.org/advertise?utm_source=github_profile&utm_medium=profile&utm_campaign=happenly_paid_promotion#lead-form).
 
-- [**DescriptiveUrl**](https://descriptiveurl.com/) - Completed URL/product-positioning experiment ready for marketing and conversion testing.
+- [**DescriptiveUrl.com**](https://descriptiveurl.com/) - URL-positioning and SEO experiment for clearer, more trustworthy product links.
 
 - [**Internal Med Questions**](https://github.com/gerritcloete/internal-med-questions) - AI-powered medical study tool.
 
