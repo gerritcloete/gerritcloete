@@ -4,6 +4,11 @@ I build intelligent software, product ventures, and growth systems that solve re
 
 Based in South Africa 🇿🇦, I run [**Topo Software**](https://toposoftware.co.za/), helping businesses scale with smart code, useful automation, and data-driven growth.
 
+### Current Focus
+
+- [**Happenly founding advertiser packages**](https://happenly.org/advertise/founding-advertiser?utm_source=github_profile&utm_medium=profile&utm_campaign=happenly_founding_advertiser&utm_content=portfolio_ventures#lead-form) - open for South African event brands, venues, and local sponsors that want early paid visibility.
+- [**Topo Software client work**](https://toposoftware.co.za/?utm_source=github_profile&utm_medium=profile&utm_campaign=client_acquisition&utm_content=current_focus) - automation, AI agent, and growth-system builds for teams with real operational complexity.
+
 ### 🚀 What I Do
 
 - **AI Agents & Automation:** Building custom AI agents, workflow automations, and LLM tools that understand business context.
@@ -22,7 +27,7 @@ Based in South Africa 🇿🇦, I run [**Topo Software**](https://toposoftware.c
 
 - [**Happenly**](https://happenly.org/) - South African event discovery and paid-promotion platform with city SEO pages, sponsored listings, lead capture, and admin conversion tooling. [Founding advertiser offer](https://happenly.org/advertise/founding-advertiser?utm_source=github_profile&utm_medium=profile&utm_campaign=happenly_founding_advertiser&utm_content=portfolio_ventures#lead-form).
 
-- [**DescriptiveUrl.com**](https://descriptiveurl.com/) - URL-positioning and SEO experiment for clearer, more trustworthy product links.
+- [**DescriptiveUrl.com**](https://descriptiveurl.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=descriptiveurl_product_proof&utm_content=portfolio_ventures) - URL-positioning and SEO experiment for clearer, more trustworthy product links.
 
 - [**Internal Med Questions**](https://github.com/gerritcloete/internal-med-questions) - AI-powered medical study tool.
 
