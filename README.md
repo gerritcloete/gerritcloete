@@ -6,9 +6,9 @@ Based in South Africa 🇿🇦, I run [**Topo Software**](https://toposoftware.c
 
 ### Current Focus
 
-- [**Happenly founding advertiser packages**](https://happenly.org/advertise/founding-advertiser?utm_source=github_profile&utm_medium=profile&utm_campaign=happenly_founding_advertiser&utm_content=portfolio_ventures#lead-form) - open for South African event brands, venues, and local sponsors that want early paid visibility.
-- [**Happenly city sponsorships**](https://happenly.org/advertise/city/cape-town?locationName=Cape+Town&locationSlug=cape-town&promotionGoal=Sponsor+a+city+page&decisionTimeline=This+week&budgetRange=R1+500%2B&paymentPreference=Send+invoice+details&source=city_sponsor_proposal&packageName=City+sponsorship&utm_source=github_profile&utm_medium=profile&utm_campaign=city_sponsorship_proposal&utm_content=portfolio_ventures_city_sponsor&message=I+want+to+sponsor+the+Cape+Town+event+discovery+page+and+review+the+public+URL+before+payment.#sponsorship-proof) - proof-first founding city-page sponsorship for venues, festivals, tourism brands, and recurring local event businesses.
-- [**Topo Software client work**](https://toposoftware.co.za/?utm_source=github_profile&utm_medium=profile&utm_campaign=client_acquisition&utm_content=current_focus) - automation, AI agent, and growth-system builds for teams with real operational complexity.
+- [**SizeSolar Data pilot**](https://data.sizesolar.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_data_pilot&utm_content=current_focus) - preparing a limited electricity-reporting pilot for property owners and operators, with reviewed bill data, clear source limits, and practical monthly reports. [Discuss a pilot](mailto:gerrit@toposoftware.co.za?subject=SizeSolar%20Data%20pilot).
+- [**SizeSolar calculator**](https://sizesolar.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_calculator&utm_content=current_focus) - improving solar planning, panel angle and orientation tools, with accuracy and clear assumptions first.
+- [**Topo Software client work**](https://toposoftware.co.za/?utm_source=github_profile&utm_medium=profile&utm_campaign=client_acquisition&utm_content=current_focus) - scoped automation and operational-software projects for teams working with spreadsheets, reporting, and disconnected systems.
 
 ### 🚀 What I Do
 
