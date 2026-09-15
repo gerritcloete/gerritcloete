@@ -6,7 +6,7 @@ Based in South Africa 🇿🇦, I run [**Topo Software**](https://toposoftware.c
 
 ### Current Focus
 
-- [**SizeSolar Data pilot**](https://data.sizesolar.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_data_pilot&utm_content=current_focus) - preparing a limited electricity-reporting pilot for property owners and operators, with reviewed bill data, clear source limits, and practical monthly reports. [Discuss a pilot](mailto:gerrit@toposoftware.co.za?subject=SizeSolar%20Data%20pilot).
+- [**SizeSolar Data pilot**](https://data.sizesolar.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_data_pilot&utm_content=current_focus) - preparing a limited electricity-reporting pilot for property owners and operators, with reviewed bill data, clear source limits, and practical monthly reports. [Discuss a pilot](mailto:sales@toposoftware.co.za?subject=SizeSolar%20Data%20pilot).
 - [**SizeSolar calculator**](https://sizesolar.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_calculator&utm_content=current_focus) - improving solar planning, panel angle and orientation tools, with accuracy and clear assumptions first.
 - [**Topo Software client work**](https://toposoftware.co.za/?utm_source=github_profile&utm_medium=profile&utm_campaign=client_acquisition&utm_content=current_focus) - scoped automation and operational-software projects for teams working with spreadsheets, reporting, and disconnected systems.
 
