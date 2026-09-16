@@ -6,9 +6,11 @@ Based in South Africa 🇿🇦, I run [**Topo Software**](https://toposoftware.c
 
 ### Current Focus
 
-- [**SizeSolar Data pilot**](https://data.sizesolar.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_data_pilot&utm_content=current_focus) - preparing a limited electricity-reporting pilot for property owners and operators, with reviewed bill data, clear source limits, and practical monthly reports. [Discuss a pilot](mailto:sales@toposoftware.co.za?subject=SizeSolar%20Data%20pilot).
-- [**SizeSolar calculator**](https://sizesolar.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_calculator&utm_content=current_focus) - improving solar planning, panel angle and orientation tools, with accuracy and clear assumptions first.
-- [**Topo Software client work**](https://toposoftware.co.za/?utm_source=github_profile&utm_medium=profile&utm_campaign=client_acquisition&utm_content=current_focus) - scoped automation and operational-software projects for teams working with spreadsheets, reporting, and disconnected systems.
+- [**SizeSolar Data**](https://data.sizesolar.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_data_pilot&utm_content=current_focus) - electricity reporting for property owners and operators. [Explore the fictional portfolio](https://data.sizesolar.com/pilot-demo?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_data_pilot&utm_content=portfolio_example) · [Read the sample report](https://data.sizesolar.com/sample-report?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_data_pilot&utm_content=sample_report) · [View the 90-day pilot](https://data.sizesolar.com/pilot?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_data_pilot&utm_content=pilot_scope).
+- [**GridEvidence**](https://gridevidence.sizesolar.com/about?utm_source=github_profile&utm_medium=profile&utm_campaign=gridevidence_pilot&utm_content=current_focus) - OCR-assisted electricity bill and receipt review, with people checking the source before approving facts. [Try a prepared fictional bill](https://gridevidence.sizesolar.com/example?utm_source=github_profile&utm_medium=profile&utm_campaign=gridevidence_pilot&utm_content=bill_example) · [Request access for your own bill](https://gridevidence.sizesolar.com/pilot-access?utm_source=github_profile&utm_medium=profile&utm_campaign=gridevidence_pilot&utm_content=pilot_access). The public example uses prepared values, not live OCR.
+- [**SizeSolar**](https://sizesolar.com/en?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_calculator&utm_content=current_focus) - plan a panel layout on your roof and prepare a proposal for an installer conversation. [View the example proposal (PDF)](https://sizesolar.com/examples/sizesolar-example-proposal.pdf?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_calculator&utm_content=example_proposal); it uses fictional inputs and prices in USD.
+
+[Pilot enquiries](mailto:sales@toposoftware.co.za?subject=SizeSolar%20pilot) go directly to our sales mailbox.
 
 ### 🚀 What I Do
 
@@ -26,7 +28,11 @@ Based in South Africa 🇿🇦, I run [**Topo Software**](https://toposoftware.c
 
 - [**SizeSolar**](https://sizesolar.com/) 🚀 - Solar sizing and proposal workflow platform.
 
-- [**Happenly**](https://happenly.org/) - South African event discovery and paid-promotion platform with city SEO pages, sponsored listings, lead capture, and admin conversion tooling. [Founding advertiser offer](https://happenly.org/advertise/founding-advertiser?utm_source=github_profile&utm_medium=profile&utm_campaign=happenly_founding_advertiser&utm_content=portfolio_ventures#lead-form) | [Sponsor a city page](https://happenly.org/advertise/city/cape-town?locationName=Cape+Town&locationSlug=cape-town&promotionGoal=Sponsor+a+city+page&decisionTimeline=This+week&budgetRange=R1+500%2B&paymentPreference=Send+invoice+details&source=city_sponsor_proposal&packageName=City+sponsorship&utm_source=github_profile&utm_medium=profile&utm_campaign=city_sponsorship_proposal&utm_content=portfolio_ventures_city_sponsor&message=I+want+to+sponsor+the+Cape+Town+event+discovery+page+and+review+the+public+URL+before+payment.#sponsorship-proof).
+- [**SizeSolar Data**](https://data.sizesolar.com/) - Electricity reporting and source-aware property monitoring.
+
+- [**GridEvidence**](https://gridevidence.sizesolar.com/about) - Electricity document extraction and human source review.
+
+- [**Happenly**](https://happenly.org/) - South African event-discovery project.
 
 - [**DescriptiveUrl.com**](https://descriptiveurl.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=descriptiveurl_product_proof&utm_content=portfolio_ventures) - URL-positioning and SEO experiment for clearer, more trustworthy product links.
 
