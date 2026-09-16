@@ -10,7 +10,7 @@ Based in South Africa 🇿🇦, I run [**Topo Software**](https://toposoftware.c
 - [**GridEvidence**](https://gridevidence.sizesolar.com/about?utm_source=github_profile&utm_medium=profile&utm_campaign=gridevidence_pilot&utm_content=current_focus) - OCR-assisted electricity bill and receipt review, with people checking the source before approving facts. [Try a prepared fictional bill](https://gridevidence.sizesolar.com/example?utm_source=github_profile&utm_medium=profile&utm_campaign=gridevidence_pilot&utm_content=bill_example) · [Request access for your own bill](https://gridevidence.sizesolar.com/pilot-access?utm_source=github_profile&utm_medium=profile&utm_campaign=gridevidence_pilot&utm_content=pilot_access). The public example uses prepared values, not live OCR.
 - [**SizeSolar**](https://sizesolar.com/en?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_calculator&utm_content=current_focus) - plan a panel layout on your roof and prepare a proposal for an installer conversation. [View the example proposal (PDF)](https://sizesolar.com/examples/sizesolar-example-proposal.pdf?utm_source=github_profile&utm_medium=profile&utm_campaign=sizesolar_calculator&utm_content=example_proposal); it uses fictional inputs and prices in USD.
 
-[Pilot enquiries](mailto:sales@toposoftware.co.za?subject=SizeSolar%20pilot) go directly to our sales mailbox.
+Pilot enquiries: [WhatsApp Topo Software](https://wa.me/27682256748) or [prepare an email](mailto:sales@toposoftware.co.za?subject=SizeSolar%20pilot). Describe your reporting need; keep bills and credentials for an agreed private upload route.
 
 ### 🚀 What I Do
 
